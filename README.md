@@ -1,4 +1,4 @@
-# Game-Dadu-sederhana
+# Game Dadu Sederhana
 Game dadu sederhana menggunakan html, css &amp; js <br>
 <p>Try here ➮ <a href="https://rafli-dewanto.github.io/Game-Dadu-Sederhana/" target="_blank" rel="noopener noreferrer">Game Dadu</a></p> <br>
 
